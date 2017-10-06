@@ -5,7 +5,6 @@
 "4": {name: "Liverpool"},
 "5": {name: "Chelsea"},
 "6": {name: "Burnley"},
-"7": {name: "Crystal Palace"},
 "8": {name: "Huddersfield Town"},
 "9": {name: "Everton"},
 "10": {name: "Stoke City"},
@@ -36,5 +35,5 @@
 "35": {name: "Hertha Berlin"},
 "36": {name: "Bayer Leverkusen"},
 "37": {name: "Mainz 05"},
-"38": {name: "Hoffenheim"},
+"38": {name: "Hoffenheim"}
 }
