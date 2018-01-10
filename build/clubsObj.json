@@ -1,282 +1,322 @@
 {
-    "14": {
-        "id": 14,
-        "name": "AFC Bournemouth",
-        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/AFC-Bournemouth-icon.png",
-        "cover": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-cover/AFC+Bournemouth.jpg",
-        "bg_in_map": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default_bg.jpg",
-        "bg_in_profile": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default#_bg.jpg",
-        "home_color": "#D41E2A",
-        "away_color": "#73C3DA",
-        "is_deleted": false,
-        "created_at": "2017-10-18T10:07:15.760352Z",
-        "updated_at": "2017-10-18T10:07:15.760352Z",
-        "deleted_at": "2017-10-18T10:07:15.760352Z"
-    },
-    "13": {
-        "id": 13,
-        "name": "West Bromwich Albion",
-        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/West-Bromwich-Albion-icon.png",
-        "cover": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-cover/West+Bromwich+Albionc.jpg",
-        "bg_in_map": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default_bg.jpg",
-        "bg_in_profile": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default#_bg.jpg",
-        "home_color": "#122F67",
-        "away_color": "#A41B22",
-        "is_deleted": false,
-        "created_at": "2017-10-18T10:07:15.254246Z",
-        "updated_at": "2017-10-18T10:07:15.254246Z",
-        "deleted_at": "2017-10-18T10:07:15.254246Z"
-    },
-    "12": {
-        "id": 12,
-        "name": "Swansea City",
-        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Swansea-City-icon.png",
-        "cover": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-cover/Swansea+City.jpg",
-        "bg_in_map": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default_bg.jpg",
-        "bg_in_profile": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default#_bg.jpg",
-        "home_color": "#FFFFFF",
-        "away_color": "#da0114",
-        "is_deleted": false,
-        "created_at": "2017-10-18T10:07:09.809149Z",
-        "updated_at": "2017-10-18T10:07:09.809149Z",
-        "deleted_at": "2017-10-18T10:07:09.809149Z"
-    },
-    "5": {
-        "id": 5,
-        "name": "Chelsea",
-        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Chelsea-FC-icon.png",
-        "cover": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-cover/Chelsea.jpg",
-        "bg_in_map": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-bg-in-map/chelsea_in_map.png",
-        "bg_in_profile": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-bg-in-profile/chealsea_bg_in_profile.jpg",
-        "home_color": "#034694",
-        "away_color": "#FFFFFF",
-        "is_deleted": false,
-        "created_at": "2017-10-18T10:06:54.160855Z",
-        "updated_at": "2017-10-18T10:06:54.160855Z",
-        "deleted_at": "2017-10-18T10:06:54.160855Z"
-    },
-    "4": {
-        "id": 4,
-        "name": "Liverpool",
-        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Liverpool-FC-icon.png",
-        "cover": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-cover/liverpool.jpg",
-        "bg_in_map": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-bg-in-map/liverpool_bg_in_map.png",
-        "bg_in_profile": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-bg-in-profile/liverpool_bg_in_profile.jpg",
-        "home_color": "#E0202C",
-        "away_color": "#FFFFFF",
-        "is_deleted": false,
-        "created_at": "2017-10-18T10:06:48.600222Z",
-        "updated_at": "2017-10-18T10:06:48.600222Z",
-        "deleted_at": "2017-10-18T10:06:48.600222Z"
-    },
-    "7": {
-        "id": 7,
-        "name": "Crystal Palace",
-        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Crystal-Palace-icon.png",
-        "cover": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-cover/Crystal+Palace.jpg",
-        "bg_in_map": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default_bg.jpg",
-        "bg_in_profile": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default#_bg.jpg",
-        "home_color": "#1B458F",
+    "19": {
+        "id": 19,
+        "name": "Manchester United",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Manchester-United-icon.png",
+        "home_color": "#DC1F29",
         "away_color": "#000000",
-        "is_deleted": false,
-        "created_at": "2017-10-18T10:06:59.737135Z",
-        "updated_at": "2017-10-18T10:06:59.737135Z",
-        "deleted_at": "2017-10-18T10:06:59.737135Z"
+        "popularity": "10000"
+    },
+    "25": {
+        "id": 25,
+        "name": "Barcelona",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/FC-Barcelona-icon.png",
+        "home_color": "#94214A",
+        "away_color": "#97DCEB",
+        "popularity": "9900"
+    },
+    "28": {
+        "id": 28,
+        "name": "Real Madrid",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Real-Madrid-icon.png",
+        "home_color": "#FFFFFF",
+        "away_color": "#000000",
+        "popularity": "9800"
+    },
+    "16": {
+        "id": 16,
+        "name": "Manchester City",
+        "icon": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-icon/Manchester_City_FC.png",
+        "home_color": "#99C5E7",
+        "away_color": "#6f0c5e",
+        "popularity": "9700"
     },
     "1": {
         "id": 1,
         "name": "Arsenal",
         "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Arsenal-FC-icon.png",
-        "cover": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-cover/Arsenal.jpg",
-        "bg_in_map": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-bg-in-map/arsenal_bg_in_map.png",
-        "bg_in_profile": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-bg-in-profile/arsenal_bg_in_profile.jpg",
         "home_color": "#D80919",
         "away_color": "#3A8EBC",
-        "is_deleted": false,
-        "created_at": "2017-10-18T10:06:42.039684Z",
-        "updated_at": "2017-10-18T10:06:42.039684Z",
-        "deleted_at": "2017-10-18T10:06:42.039684Z"
+        "popularity": "9600"
     },
-    "2": {
-        "id": 2,
-        "name": "Leicester City",
-        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Leicester-City-icon.png",
-        "cover": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-cover/Leicester+City.jpeg",
-        "bg_in_map": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default_bg.jpg",
-        "bg_in_profile": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default#_bg.jpg",
-        "home_color": "#05348D",
+    "5": {
+        "id": 5,
+        "name": "Chelsea",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Chelsea-FC-icon.png",
+        "home_color": "#034694",
         "away_color": "#FFFFFF",
-        "is_deleted": false,
-        "created_at": "2017-10-18T10:06:43.028178Z",
-        "updated_at": "2017-10-18T10:06:43.028178Z",
-        "deleted_at": "2017-10-18T10:06:43.028178Z"
+        "popularity": "9500"
     },
-    "19": {
-        "id": 19,
-        "name": "Manchester United",
-        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Manchester-United-icon.png",
-        "cover": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-cover/Manchester+United.jpg",
-        "bg_in_map": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-bg-in-map/manunited_bg_in_map.png",
-        "bg_in_profile": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-bg-in-profile/manunited_bg_in_profile.png",
-        "home_color": "#DC1F29",
-        "away_color": "#000000",
-        "is_deleted": false,
-        "created_at": "2017-10-18T10:07:30.554546Z",
-        "updated_at": "2017-10-18T10:07:30.554546Z",
-        "deleted_at": "2017-10-18T10:07:30.554546Z"
-    },
-    "11": {
-        "id": 11,
-        "name": "Southampton",
-        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Southampton-FC-icon.png",
-        "cover": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-cover/Southampton.jpg",
-        "bg_in_map": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default_bg.jpg",
-        "bg_in_profile": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default#_bg.jpg",
-        "home_color": "#D41E29",
-        "away_color": "#028398",
-        "is_deleted": false,
-        "created_at": "2017-10-18T10:07:09.334391Z",
-        "updated_at": "2017-10-18T10:07:09.334391Z",
-        "deleted_at": "2017-10-18T10:07:09.334391Z"
-    },
-    "17": {
-        "id": 17,
-        "name": "Newcastle United",
-        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Newcastle-United-icon.png",
-        "cover": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-cover/Newcastle+United.jpg",
-        "bg_in_map": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default_bg.jpg",
-        "bg_in_profile": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default#_bg.jpg",
-        "home_color": "#000000",
-        "away_color": "#8cd4e0",
-        "is_deleted": false,
-        "created_at": "2017-10-18T10:07:26.275058Z",
-        "updated_at": "2017-10-18T10:07:26.275058Z",
-        "deleted_at": "2017-10-18T10:07:26.275058Z"
+    "4": {
+        "id": 4,
+        "name": "Liverpool",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Liverpool-FC-icon.png",
+        "home_color": "#E0202C",
+        "away_color": "#FFFFFF",
+        "popularity": "9400"
     },
     "18": {
         "id": 18,
         "name": "Tottenham Hotspur",
         "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Tottenham-Hotspur-icon.png",
-        "cover": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-cover/Manchester+United.jpg",
-        "bg_in_map": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default_bg.jpg",
-        "bg_in_profile": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default#_bg.jpg",
         "home_color": "#FFFFFF",
         "away_color": "#11214B",
-        "is_deleted": false,
-        "created_at": "2017-10-18T10:07:26.780935Z",
-        "updated_at": "2017-10-18T10:07:26.780935Z",
-        "deleted_at": "2017-10-18T10:07:26.780935Z"
+        "popularity": "9300"
     },
-    "16": {
-        "id": 16,
-        "name": "Manchester City",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Mancity.png",
-        "cover": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-cover/Manchester+City.jpg",
-        "bg_in_map": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-bg-in-map/mancity_bg_in_map.png",
-        "bg_in_profile": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-bg-in-profile/mancity_bg_in_profile.jpg",
-        "home_color": "#99C5E7",
-        "away_color": "#6f0c5e",
-        "is_deleted": false,
-        "created_at": "2017-10-18T10:07:20.473708Z",
-        "updated_at": "2017-10-18T10:07:20.473708Z",
-        "deleted_at": "2017-10-18T10:07:20.473708Z"
+    "26": {
+        "id": 26,
+        "name": "Atletico Madrid",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Atletico-Madrid-icon.png",
+        "home_color": "#D42E12",
+        "away_color": "#F7D117",
+        "popularity": "9200"
+    },
+    "2": {
+        "id": 2,
+        "name": "Leicester City",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Leicester-City-icon.png",
+        "home_color": "#05348D",
+        "away_color": "#FFFFFF",
+        "popularity": "9100"
+    },
+    "27": {
+        "id": 27,
+        "name": "Valencia",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Valencia-icon.png",
+        "home_color": "#FFFFFF",
+        "away_color": "#FFC938",
+        "popularity": "9000"
     },
     "9": {
         "id": 9,
         "name": "Everton",
         "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Everton-FC-icon.png",
-        "cover": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-cover/Everton.jpg",
-        "bg_in_map": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default_bg.jpg",
-        "bg_in_profile": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default#_bg.jpg",
         "home_color": "#063A99",
         "away_color": "#FFFFFF",
-        "is_deleted": false,
-        "created_at": "2017-10-18T10:07:05.050179Z",
-        "updated_at": "2017-10-18T10:07:05.050179Z",
-        "deleted_at": "2017-10-18T10:07:05.050179Z"
+        "popularity": "8900"
     },
-    "8": {
-        "id": 8,
-        "name": "Huddersfield Town",
-        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Huddersfield-Town-icon.png",
-        "cover": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-cover/Huddersfield+Town.jpg",
-        "bg_in_map": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default_bg.jpg",
-        "bg_in_profile": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default#_bg.jpg",
-        "home_color": "#0E63AD",
-        "away_color": "#ff0101",
-        "is_deleted": false,
-        "created_at": "2017-10-18T10:07:00.210183Z",
-        "updated_at": "2017-10-18T10:07:00.210183Z",
-        "deleted_at": "2017-10-18T10:07:00.210183Z"
+    "14": {
+        "id": 14,
+        "name": "AFC Bournemouth",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/AFC-Bournemouth-icon.png",
+        "home_color": "#D41E2A",
+        "away_color": "#73C3DA",
+        "popularity": "0"
     },
-    "20": {
-        "id": 20,
-        "name": "West Ham United",
-        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/West-Ham-United-icon.png",
-        "cover": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-cover/West+Ham+United.jpg",
-        "bg_in_map": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default_bg.jpg",
-        "bg_in_profile": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default#_bg.jpg",
-        "home_color": "#7A263A",
-        "away_color": "#25252d",
-        "is_deleted": false,
-        "created_at": "2017-10-18T10:07:31.035538Z",
-        "updated_at": "2017-10-18T10:07:31.035538Z",
-        "deleted_at": "2017-10-18T10:07:31.035538Z"
-    },
-    "6": {
-        "id": 6,
-        "name": "Burnley",
-        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Burnley-FC-icon.png",
-        "cover": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-cover/Burnley.jpg",
-        "bg_in_map": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default_bg.jpg",
-        "bg_in_profile": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default#_bg.jpg",
-        "home_color": "#80234C",
+    "42": {
+        "id": 42,
+        "name": "Alaves",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Deportivo-Alaves-icon.png",
+        "home_color": "#2572AE",
         "away_color": "#FFFFFF",
-        "is_deleted": false,
-        "created_at": "2017-10-18T10:06:55.082598Z",
-        "updated_at": "2017-10-18T10:06:55.082598Z",
-        "deleted_at": "2017-10-18T10:06:55.082598Z"
+        "popularity": "0"
     },
-    "10": {
-        "id": 10,
-        "name": "Stoke City",
-        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Stoke-City-icon.png",
-        "cover": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-cover/Stoke+City.jpg",
-        "bg_in_map": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default_bg.jpg",
-        "bg_in_profile": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default#_bg.jpg",
-        "home_color": "#D0122D",
-        "away_color": "#0265b8",
-        "is_deleted": false,
-        "created_at": "2017-10-18T10:07:05.961315Z",
-        "updated_at": "2017-10-18T10:07:05.961315Z",
-        "deleted_at": "2017-10-18T10:07:05.961315Z"
-    },
-    "3": {
-        "id": 3,
-        "name": "Watford",
-        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Watford-FC-icon.png",
-        "cover": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-cover/Watford.jpg",
-        "bg_in_map": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default_bg.jpg",
-        "bg_in_profile": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default#_bg.jpg",
-        "home_color": "#FEEB00",
-        "away_color": "#E40F18",
-        "is_deleted": false,
-        "created_at": "2017-10-18T10:06:47.62361Z",
-        "updated_at": "2017-10-18T10:06:47.62361Z",
-        "deleted_at": "2017-10-18T10:06:47.62361Z"
+    "38": {
+        "id": 38,
+        "name": "Athletic Bilbao",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Athletic-Bilbao-icon.png",
+        "home_color": "#E41819",
+        "away_color": "#000000",
+        "popularity": "0"
     },
     "15": {
         "id": 15,
         "name": "Brighton & Hove Albion",
         "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Brighton-Hove-Albion-icon.png",
-        "cover": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-cover/Brighton+%!+(MISSING)Hove+Albion.jpg",
-        "bg_in_map": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default_bg.jpg",
-        "bg_in_profile": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/default#_bg.jpg",
         "home_color": "#0A56A3",
         "away_color": "#F8BC1B",
-        "is_deleted": false,
-        "created_at": "2017-10-18T10:07:20.003275Z",
-        "updated_at": "2017-10-18T10:07:20.003275Z",
-        "deleted_at": "2017-10-18T10:07:20.003275Z"
+        "popularity": "0"
+    },
+    "6": {
+        "id": 6,
+        "name": "Burnley",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Burnley-FC-icon.png",
+        "home_color": "#80234C",
+        "away_color": "#FFFFFF",
+        "popularity": "0"
+    },
+    "37": {
+        "id": 37,
+        "name": "Celta Vigo",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Celta-de-Vigo-icon.png",
+        "home_color": "#8CC2F0",
+        "away_color": "#000000",
+        "popularity": "0"
+    },
+    "7": {
+        "id": 7,
+        "name": "Crystal Palace",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Crystal-Palace-icon.png",
+        "home_color": "#1B458F",
+        "away_color": "#000000",
+        "popularity": "0"
+    },
+    "41": {
+        "id": 41,
+        "name": "Deportivo La Coruna",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Deportivo-La-Coruna-icon.png",
+        "home_color": "#035FB2",
+        "away_color": "#000000",
+        "popularity": "0"
+    },
+    "33": {
+        "id": 33,
+        "name": "Eibar",
+        "icon": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-icon/SD_Eibar_logo_2016.png",
+        "home_color": "#364471",
+        "away_color": "#000000",
+        "popularity": "0"
+    },
+    "40": {
+        "id": 40,
+        "name": "Espanyol",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Espanyol-icon.png",
+        "home_color": "#0555A0",
+        "away_color": "#313E4F",
+        "popularity": "0"
+    },
+    "34": {
+        "id": 34,
+        "name": "Getafe",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Getafe-icon.png",
+        "home_color": "#0277CF",
+        "away_color": "#CC012C",
+        "popularity": "0"
+    },
+    "31": {
+        "id": 31,
+        "name": "Girona",
+        "icon": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-icon/Girona_icon.png",
+        "home_color": "#FC383C",
+        "away_color": "#9BBFDF",
+        "popularity": "0"
+    },
+    "8": {
+        "id": 8,
+        "name": "Huddersfield Town",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Huddersfield-Town-icon.png",
+        "home_color": "#0E63AD",
+        "away_color": "#ff0101",
+        "popularity": "0"
+    },
+    "44": {
+        "id": 44,
+        "name": "Las Palmas",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/UD-Las-Palmas-icon.png",
+        "home_color": "#DFC21D",
+        "away_color": "#38393D",
+        "popularity": "0"
+    },
+    "36": {
+        "id": 36,
+        "name": "Leganes",
+        "icon": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-icon/leganes_icon.png",
+        "home_color": "#004BBE",
+        "away_color": "#1A1650",
+        "popularity": "0"
+    },
+    "39": {
+        "id": 39,
+        "name": "Levante",
+        "icon": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-icon/levante_icon.png",
+        "home_color": "#EE084A",
+        "away_color": "#F1FFFF",
+        "popularity": "0"
+    },
+    "43": {
+        "id": 43,
+        "name": "Malaga",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Malaga-CF-icon.png",
+        "home_color": "#015CBD",
+        "away_color": "#F59E00",
+        "popularity": "0"
+    },
+    "17": {
+        "id": 17,
+        "name": "Newcastle United",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Newcastle-United-icon.png",
+        "home_color": "#000000",
+        "away_color": "#8cd4e0",
+        "popularity": "0"
+    },
+    "32": {
+        "id": 32,
+        "name": "Real Betis",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Real-Betis-icon.png",
+        "home_color": "#015128",
+        "away_color": "#044541",
+        "popularity": "0"
+    },
+    "35": {
+        "id": 35,
+        "name": "Real Sociedad",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Real-Sociedad-icon.png",
+        "home_color": "#003475",
+        "away_color": "#F53238",
+        "popularity": "0"
+    },
+    "29": {
+        "id": 29,
+        "name": "Sevilla",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Sevilla-icon.png",
+        "home_color": "#FFFFFF",
+        "away_color": "#C5112C",
+        "popularity": "0"
+    },
+    "11": {
+        "id": 11,
+        "name": "Southampton",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Southampton-FC-icon.png",
+        "home_color": "#D41E29",
+        "away_color": "#028398",
+        "popularity": "0"
+    },
+    "10": {
+        "id": 10,
+        "name": "Stoke City",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Stoke-City-icon.png",
+        "home_color": "#D0122D",
+        "away_color": "#0265b8",
+        "popularity": "0"
+    },
+    "12": {
+        "id": 12,
+        "name": "Swansea City",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Swansea-City-icon.png",
+        "home_color": "#FFFFFF",
+        "away_color": "#da0114",
+        "popularity": "0"
+    },
+    "30": {
+        "id": 30,
+        "name": "Villarreal",
+        "icon": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-icon/Villarreal_CF_logo.png",
+        "home_color": "#DED651",
+        "away_color": "#8E0126",
+        "popularity": "0"
+    },
+    "3": {
+        "id": 3,
+        "name": "Watford",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Watford-FC-icon.png",
+        "home_color": "#FEEB00",
+        "away_color": "#E40F18",
+        "popularity": "0"
+    },
+    "13": {
+        "id": 13,
+        "name": "West Bromwich Albion",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/West-Bromwich-Albion-icon.png",
+        "home_color": "#122F67",
+        "away_color": "#A41B22",
+        "popularity": "0"
+    },
+    "20": {
+        "id": 20,
+        "name": "West Ham United",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/West-Ham-United-icon.png",
+        "home_color": "#7A263A",
+        "away_color": "#25252d",
+        "popularity": "0"
     }
 }

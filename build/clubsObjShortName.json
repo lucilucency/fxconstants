@@ -1,0 +1,122 @@
+{
+    "Manchester United": {
+        "short_name": "MAN"
+    },
+    "Barcelona": {
+        "short_name": "BAR"
+    },
+    "Real Madrid": {
+        "short_name": "MAD"
+    },
+    "Manchester City": {
+        "short_name": "MNC"
+    },
+    "Arsenal": {
+        "short_name": "ARS"
+    },
+    "Chelsea": {
+        "short_name": "CHE"
+    },
+    "Liverpool": {
+        "short_name": "LIV"
+    },
+    "Tottenham Hotspur": {
+        "short_name": "TOT"
+    },
+    "Atletico Madrid": {
+        "short_name": "ATM"
+    },
+    "Leicester City": {
+        "short_name": "LEI"
+    },
+    "Valencia": {
+        "short_name": "VCF"
+    },
+    "Everton": {
+        "short_name": "EVE"
+    },
+    "AFC Bournemouth": {
+        "short_name": "BOU"
+    },
+    "Alaves": {
+        "short_name": "ALV"
+    },
+    "Athletic Bilbao": {
+        "short_name": "BIL"
+    },
+    "Brighton & Hove Albion": {
+        "short_name": "BHA"
+    },
+    "Burnley": {
+        "short_name": "BUR"
+    },
+    "Celta Vigo": {
+        "short_name": "CEL"
+    },
+    "Crystal Palace": {
+        "short_name": "CRY"
+    },
+    "Deportivo La Coruna": {
+        "short_name": "DEP"
+    },
+    "Eibar": {
+        "short_name": "EIB"
+    },
+    "Espanyol": {
+        "short_name": "ESP"
+    },
+    "Getafe": {
+        "short_name": "GET"
+    },
+    "Girona": {
+        "short_name": "GIR"
+    },
+    "Huddersfield Town": {
+        "short_name": "HUD"
+    },
+    "Las Palmas": {
+        "short_name": "LPA"
+    },
+    "Leganes": {
+        "short_name": "LEG"
+    },
+    "Levante": {
+        "short_name": "LEV"
+    },
+    "Malaga": {
+        "short_name": "MCF"
+    },
+    "Newcastle United": {
+        "short_name": "NEW"
+    },
+    "Real Betis": {
+        "short_name": "RBB"
+    },
+    "Real Sociedad": {
+        "short_name": "RSO"
+    },
+    "Sevilla": {
+        "short_name": "SEV"
+    },
+    "Southampton": {
+        "short_name": "SOU"
+    },
+    "Stoke City": {
+        "short_name": "STK"
+    },
+    "Swansea City": {
+        "short_name": "SWA"
+    },
+    "Villarreal": {
+        "short_name": "VIL"
+    },
+    "Watford": {
+        "short_name": "WAT"
+    },
+    "West Bromwich Albion": {
+        "short_name": "WBA"
+    },
+    "West Ham United": {
+        "short_name": "WHU"
+    }
+}

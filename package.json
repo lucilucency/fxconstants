@@ -1,6 +1,6 @@
 {
   "name": "fxconstants",
-  "version": "1.0.8",
+  "version": "1.0.16",
   "description": "Constant data for FootballX applications",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/lucilucency/fxconstants/issues"
   },
-  "homepage": "https://github.com/lucilucency/fxconstants#readme"
+  "homepage": "https://github.com/lucilucency/fxconstants#readme",
+  "dependencies": {
+    "superagent": "^3.8.2"
+  }
 }
