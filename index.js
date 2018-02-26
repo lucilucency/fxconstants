@@ -1,10 +1,13 @@
-var fs = require('fs');
+// import clubsShortname from '/build/clubsObjShortName.json';
 
+var fs = require('fs');
+// const clubsShortname = require('build/clubsObjShortName.json');
 // module.exports = {
-// 	clubs: require(__dirname + '/build/clubsObj.json')
+// 	clubsObjShortName: require(__dirname + '/build/clubsObjShortName.json')
 // };
 
 const request = require('superagent');
+const clubsShortname = require( "./build/clubsObjShortName.json" );
 
 function updateVersion() {
   	const host = process.env.FX_API || 'http://dev.ttab.me:51167';
@@ -41,8 +44,12 @@ function updateVersion() {
 	getDownloadUrl(1000, 3).then(nextUrl => {
 		request.get(nextUrl).buffer(true).then((res, err) => {
 			const contentData = JSON.parse(res.text);
-			const { clubs, areas, leagues, groups, group_membership_configs, exchange_rates, version } = contentData;
-
+			let { clubs, areas, leagues, groups, group_membership_configs, exchange_rates, version } = contentData;
+			clubs = clubs.map(club => {
+				club.short_name = clubsShortname[club.name].short_name;
+				return club;
+			});
+			
 			updateObjFile('clubs', clubs);
 			updateObjFile('groups', groups);
 			updateObjFile('leagues', leagues);
