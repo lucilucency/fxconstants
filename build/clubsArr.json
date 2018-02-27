@@ -1,1 +1,362 @@
-[{"id":19,"name":"Manchester United","icon":"http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Manchester-United-icon.png","home_color":"#DC1F29","away_color":"##000000","popularity":"999","short_name":"MAN"},{"id":5,"name":"Chelsea","icon":"http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Chelsea-FC-icon.png","home_color":"#034694","away_color":"##FFFFFF","popularity":"998","short_name":"CHE"},{"id":1,"name":"Arsenal","icon":"http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Arsenal-FC-icon.png","home_color":"#D80919","away_color":"##3A8EBC","popularity":"997","short_name":"ARS"},{"id":25,"name":"Barcelona","icon":"http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/FC-Barcelona-icon.png","home_color":"","away_color":"","popularity":"996","short_name":"BAR"},{"id":16,"name":"Manchester City","icon":"https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-icon/Manchester_City_FC.png","home_color":"#99C5E7","away_color":"##6f0c5e","popularity":"995","short_name":"MNC"},{"id":28,"name":"Real Madrid","icon":"http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Real-Madrid-icon.png","home_color":"","away_color":"","popularity":"994","short_name":"MAD"},{"id":4,"name":"Liverpool","icon":"http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Liverpool-FC-icon.png","home_color":"#E0202C","away_color":"##FFFFFF","popularity":"993","short_name":"LIV"},{"id":14,"name":"AFC Bournemouth","icon":"http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/AFC-Bournemouth-icon.png","home_color":"#D41E2A","away_color":"##73C3DA","popularity":"0","short_name":"BOU"},{"id":42,"name":"Alaves","icon":"http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Deportivo-Alaves-icon.png","home_color":"","away_color":"","popularity":"0","short_name":"ALV"},{"id":38,"name":"Athletic Bilbao","icon":"http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Athletic-Bilbao-icon.png","home_color":"","away_color":"","popularity":"0","short_name":"BIL"},{"id":26,"name":"Atletico Madrid","icon":"http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Atletico-Madrid-icon.png","home_color":"","away_color":"","popularity":"0","short_name":"ATM"},{"id":15,"name":"Brighton & Hove Albion","icon":"http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Brighton-Hove-Albion-icon.png","home_color":"#0A56A3","away_color":"##F8BC1B","popularity":"0","short_name":"BHA"},{"id":6,"name":"Burnley","icon":"http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Burnley-FC-icon.png","home_color":"#80234C","away_color":"##FFFFFF","popularity":"0","short_name":"BUR"},{"id":37,"name":"Celta Vigo","icon":"http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Celta-de-Vigo-icon.png","home_color":"","away_color":"","popularity":"0","short_name":"CEL"},{"id":7,"name":"Crystal Palace","icon":"http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Crystal-Palace-icon.png","home_color":"#1B458F","away_color":"##000000","popularity":"0","short_name":"CRY"},{"id":41,"name":"Deportivo La Coruna","icon":"http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Deportivo-La-Coruna-icon.png","home_color":"","away_color":"","popularity":"0","short_name":"DEP"},{"id":33,"name":"Eibar","icon":"https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-icon/SD_Eibar_logo_2016.png","home_color":"","away_color":"","popularity":"0","short_name":"EIB"},{"id":40,"name":"Espanyol","icon":"http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Espanyol-icon.png","home_color":"","away_color":"","popularity":"0","short_name":"ESP"},{"id":9,"name":"Everton","icon":"http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Everton-FC-icon.png","home_color":"#063A99","away_color":"##FFFFFF","popularity":"0","short_name":"EVE"},{"id":34,"name":"Getafe","icon":"http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Getafe-icon.png","home_color":"","away_color":"","popularity":"0","short_name":"GET"},{"id":31,"name":"Girona","icon":"https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-icon/Girona_icon.png","home_color":"","away_color":"","popularity":"0","short_name":"GIR"},{"id":8,"name":"Huddersfield Town","icon":"http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Huddersfield-Town-icon.png","home_color":"#0E63AD","away_color":"##ff0101","popularity":"0","short_name":"HUD"},{"id":44,"name":"Las Palmas","icon":"http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/UD-Las-Palmas-icon.png","home_color":"","away_color":"","popularity":"0","short_name":"LPA"},{"id":36,"name":"Leganes","icon":"https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-icon/leganes_icon.png","home_color":"","away_color":"","popularity":"0","short_name":"LEG"},{"id":2,"name":"Leicester City","icon":"http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Leicester-City-icon.png","home_color":"#05348D","away_color":"##FFFFFF","popularity":"0","short_name":"LEI"},{"id":39,"name":"Levante","icon":"https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-icon/levante_icon.png","home_color":"","away_color":"","popularity":"0","short_name":"LEV"},{"id":43,"name":"Malaga","icon":"http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Malaga-CF-icon.png","home_color":"","away_color":"","popularity":"0","short_name":"MCF"},{"id":17,"name":"Newcastle United","icon":"http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Newcastle-United-icon.png","home_color":"#000000","away_color":"##8cd4e0","popularity":"0","short_name":"NEW"},{"id":32,"name":"Real Betis","icon":"http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Real-Betis-icon.png","home_color":"","away_color":"","popularity":"0","short_name":"RBB"},{"id":35,"name":"Real Sociedad","icon":"http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Real-Sociedad-icon.png","home_color":"","away_color":"","popularity":"0","short_name":"RSO"},{"id":29,"name":"Sevilla","icon":"http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Sevilla-icon.png","home_color":"","away_color":"","popularity":"0","short_name":"SEV"},{"id":11,"name":"Southampton","icon":"http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Southampton-FC-icon.png","home_color":"#D41E29","away_color":"##028398","popularity":"0","short_name":"SOU"},{"id":10,"name":"Stoke City","icon":"http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Stoke-City-icon.png","home_color":"#D0122D","away_color":"##0265b8","popularity":"0","short_name":"STK"},{"id":12,"name":"Swansea City","icon":"http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Swansea-City-icon.png","home_color":"#FFFFFF","away_color":"##da0114","popularity":"0","short_name":"SWA"},{"id":18,"name":"Tottenham Hotspur","icon":"http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Tottenham-Hotspur-icon.png","home_color":"#FFFFFF","away_color":"##11214B","popularity":"0","short_name":"TOT"},{"id":27,"name":"Valencia","icon":"http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Valencia-icon.png","home_color":"","away_color":"","popularity":"0","short_name":"VCF"},{"id":30,"name":"Villarreal","icon":"https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-icon/Villarreal_CF_logo.png","home_color":"","away_color":"","popularity":"0","short_name":"VIL"},{"id":3,"name":"Watford","icon":"http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Watford-FC-icon.png","home_color":"#FEEB00","away_color":"##E40F18","popularity":"0","short_name":"WAT"},{"id":13,"name":"West Bromwich Albion","icon":"http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/West-Bromwich-Albion-icon.png","home_color":"#122F67","away_color":"##A41B22","popularity":"0","short_name":"WBA"},{"id":20,"name":"West Ham United","icon":"http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/West-Ham-United-icon.png","home_color":"#7A263A","away_color":"##25252d","popularity":"0","short_name":"WHU"}]
+[
+    {
+        "id": 19,
+        "name": "Manchester United",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Manchester-United-icon.png",
+        "home_color": "#DC1F29",
+        "away_color": "#000000",
+        "popularity": "999",
+        "short_name": "MAN"
+    },
+    {
+        "id": 5,
+        "name": "Chelsea",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Chelsea-FC-icon.png",
+        "home_color": "#034694",
+        "away_color": "#FFFFFF",
+        "popularity": "998",
+        "short_name": "CHE"
+    },
+    {
+        "id": 1,
+        "name": "Arsenal",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Arsenal-FC-icon.png",
+        "home_color": "#D80919",
+        "away_color": "#3A8EBC",
+        "popularity": "997",
+        "short_name": "ARS"
+    },
+    {
+        "id": 25,
+        "name": "Barcelona",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/FC-Barcelona-icon.png",
+        "home_color": "",
+        "away_color": "",
+        "popularity": "996",
+        "short_name": "BAR"
+    },
+    {
+        "id": 16,
+        "name": "Manchester City",
+        "icon": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-icon/Manchester_City_FC.png",
+        "home_color": "#99C5E7",
+        "away_color": "#6f0c5e",
+        "popularity": "995",
+        "short_name": "MNC"
+    },
+    {
+        "id": 28,
+        "name": "Real Madrid",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Real-Madrid-icon.png",
+        "home_color": "",
+        "away_color": "",
+        "popularity": "994",
+        "short_name": "MAD"
+    },
+    {
+        "id": 4,
+        "name": "Liverpool",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Liverpool-FC-icon.png",
+        "home_color": "#E0202C",
+        "away_color": "#FFFFFF",
+        "popularity": "993",
+        "short_name": "LIV"
+    },
+    {
+        "id": 14,
+        "name": "AFC Bournemouth",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/AFC-Bournemouth-icon.png",
+        "home_color": "#D41E2A",
+        "away_color": "#73C3DA",
+        "popularity": "0",
+        "short_name": "BOU"
+    },
+    {
+        "id": 42,
+        "name": "Alaves",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Deportivo-Alaves-icon.png",
+        "home_color": "",
+        "away_color": "",
+        "popularity": "0",
+        "short_name": "ALV"
+    },
+    {
+        "id": 38,
+        "name": "Athletic Bilbao",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Athletic-Bilbao-icon.png",
+        "home_color": "",
+        "away_color": "",
+        "popularity": "0",
+        "short_name": "BIL"
+    },
+    {
+        "id": 26,
+        "name": "Atletico Madrid",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Atletico-Madrid-icon.png",
+        "home_color": "",
+        "away_color": "",
+        "popularity": "0",
+        "short_name": "ATM"
+    },
+    {
+        "id": 15,
+        "name": "Brighton & Hove Albion",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Brighton-Hove-Albion-icon.png",
+        "home_color": "#0A56A3",
+        "away_color": "#F8BC1B",
+        "popularity": "0",
+        "short_name": "BHA"
+    },
+    {
+        "id": 6,
+        "name": "Burnley",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Burnley-FC-icon.png",
+        "home_color": "#80234C",
+        "away_color": "#FFFFFF",
+        "popularity": "0",
+        "short_name": "BUR"
+    },
+    {
+        "id": 37,
+        "name": "Celta Vigo",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Celta-de-Vigo-icon.png",
+        "home_color": "",
+        "away_color": "",
+        "popularity": "0",
+        "short_name": "CEL"
+    },
+    {
+        "id": 7,
+        "name": "Crystal Palace",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Crystal-Palace-icon.png",
+        "home_color": "#1B458F",
+        "away_color": "#000000",
+        "popularity": "0",
+        "short_name": "CRY"
+    },
+    {
+        "id": 41,
+        "name": "Deportivo La Coruna",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Deportivo-La-Coruna-icon.png",
+        "home_color": "",
+        "away_color": "",
+        "popularity": "0",
+        "short_name": "DEP"
+    },
+    {
+        "id": 33,
+        "name": "Eibar",
+        "icon": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-icon/SD_Eibar_logo_2016.png",
+        "home_color": "",
+        "away_color": "",
+        "popularity": "0",
+        "short_name": "EIB"
+    },
+    {
+        "id": 40,
+        "name": "Espanyol",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Espanyol-icon.png",
+        "home_color": "",
+        "away_color": "",
+        "popularity": "0",
+        "short_name": "ESP"
+    },
+    {
+        "id": 9,
+        "name": "Everton",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Everton-FC-icon.png",
+        "home_color": "#063A99",
+        "away_color": "#FFFFFF",
+        "popularity": "0",
+        "short_name": "EVE"
+    },
+    {
+        "id": 34,
+        "name": "Getafe",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Getafe-icon.png",
+        "home_color": "",
+        "away_color": "",
+        "popularity": "0",
+        "short_name": "GET"
+    },
+    {
+        "id": 31,
+        "name": "Girona",
+        "icon": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-icon/Girona_icon.png",
+        "home_color": "",
+        "away_color": "",
+        "popularity": "0",
+        "short_name": "GIR"
+    },
+    {
+        "id": 8,
+        "name": "Huddersfield Town",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Huddersfield-Town-icon.png",
+        "home_color": "#0E63AD",
+        "away_color": "#ff0101",
+        "popularity": "0",
+        "short_name": "HUD"
+    },
+    {
+        "id": 44,
+        "name": "Las Palmas",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/UD-Las-Palmas-icon.png",
+        "home_color": "",
+        "away_color": "",
+        "popularity": "0",
+        "short_name": "LPA"
+    },
+    {
+        "id": 36,
+        "name": "Leganes",
+        "icon": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-icon/leganes_icon.png",
+        "home_color": "",
+        "away_color": "",
+        "popularity": "0",
+        "short_name": "LEG"
+    },
+    {
+        "id": 2,
+        "name": "Leicester City",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Leicester-City-icon.png",
+        "home_color": "#05348D",
+        "away_color": "#FFFFFF",
+        "popularity": "0",
+        "short_name": "LEI"
+    },
+    {
+        "id": 39,
+        "name": "Levante",
+        "icon": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-icon/levante_icon.png",
+        "home_color": "",
+        "away_color": "",
+        "popularity": "0",
+        "short_name": "LEV"
+    },
+    {
+        "id": 43,
+        "name": "Malaga",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Malaga-CF-icon.png",
+        "home_color": "",
+        "away_color": "",
+        "popularity": "0",
+        "short_name": "MCF"
+    },
+    {
+        "id": 17,
+        "name": "Newcastle United",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Newcastle-United-icon.png",
+        "home_color": "#000000",
+        "away_color": "#8cd4e0",
+        "popularity": "0",
+        "short_name": "NEW"
+    },
+    {
+        "id": 32,
+        "name": "Real Betis",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Real-Betis-icon.png",
+        "home_color": "",
+        "away_color": "",
+        "popularity": "0",
+        "short_name": "RBB"
+    },
+    {
+        "id": 35,
+        "name": "Real Sociedad",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Real-Sociedad-icon.png",
+        "home_color": "",
+        "away_color": "",
+        "popularity": "0",
+        "short_name": "RSO"
+    },
+    {
+        "id": 29,
+        "name": "Sevilla",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Sevilla-icon.png",
+        "home_color": "",
+        "away_color": "",
+        "popularity": "0",
+        "short_name": "SEV"
+    },
+    {
+        "id": 11,
+        "name": "Southampton",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Southampton-FC-icon.png",
+        "home_color": "#D41E29",
+        "away_color": "#028398",
+        "popularity": "0",
+        "short_name": "SOU"
+    },
+    {
+        "id": 10,
+        "name": "Stoke City",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Stoke-City-icon.png",
+        "home_color": "#D0122D",
+        "away_color": "#0265b8",
+        "popularity": "0",
+        "short_name": "STK"
+    },
+    {
+        "id": 12,
+        "name": "Swansea City",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Swansea-City-icon.png",
+        "home_color": "#FFFFFF",
+        "away_color": "#da0114",
+        "popularity": "0",
+        "short_name": "SWA"
+    },
+    {
+        "id": 18,
+        "name": "Tottenham Hotspur",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Tottenham-Hotspur-icon.png",
+        "home_color": "#FFFFFF",
+        "away_color": "#11214B",
+        "popularity": "0",
+        "short_name": "TOT"
+    },
+    {
+        "id": 27,
+        "name": "Valencia",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/128/Valencia-icon.png",
+        "home_color": "",
+        "away_color": "",
+        "popularity": "0",
+        "short_name": "VCF"
+    },
+    {
+        "id": 30,
+        "name": "Villarreal",
+        "icon": "https://s3-ap-southeast-1.amazonaws.com/football-x-data-download/club-icon/Villarreal_CF_logo.png",
+        "home_color": "",
+        "away_color": "",
+        "popularity": "0",
+        "short_name": "VIL"
+    },
+    {
+        "id": 3,
+        "name": "Watford",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/Watford-FC-icon.png",
+        "home_color": "#FEEB00",
+        "away_color": "#E40F18",
+        "popularity": "0",
+        "short_name": "WAT"
+    },
+    {
+        "id": 13,
+        "name": "West Bromwich Albion",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/West-Bromwich-Albion-icon.png",
+        "home_color": "#122F67",
+        "away_color": "#A41B22",
+        "popularity": "0",
+        "short_name": "WBA"
+    },
+    {
+        "id": 20,
+        "name": "West Ham United",
+        "icon": "http://icons.iconarchive.com/icons/giannis-zographos/english-football-club/128/West-Ham-United-icon.png",
+        "home_color": "#7A263A",
+        "away_color": "#25252d",
+        "popularity": "0",
+        "short_name": "WHU"
+    }
+]
