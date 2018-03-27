@@ -45,10 +45,7 @@ function updateVersion() {
 		request.get(nextUrl).buffer(true).then((res, err) => {
 			const contentData = JSON.parse(res.text);
 			let { clubs, areas, leagues, groups, group_membership_configs, exchange_rates, version } = contentData;
-			clubs = clubs.map(club => {
-				club.short_name = clubsShortname[club.name].short_name;
-				return club;
-			});
+            
 			
 			updateObjFile('clubs', clubs);
 			updateObjFile('groups', groups);
