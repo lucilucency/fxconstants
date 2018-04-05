@@ -8,12 +8,12 @@ var fs = require('fs');
 
 const request = require('superagent');
 const clubsShortname = require( "./build/clubsObjShortName.json" );
+const mobileAPI = process.env.FX_API || 'http://mobile-api.ttab.me';
+const webAPI = process.env.FX_WEB_API || 'http://web-api.ttab.me';
+const v = process.env.FX_VERSION || 'v1';
 
-function updateVersion() {
-  	const host = process.env.FX_API || 'http://mobile-api.ttab.me';
-  	const v = process.env.FX_VERSION || 'v1';
-  
-	const url = `${host}/${v}/version`;
+function getVersionAndCaculate() {
+  	const url = `${mobileAPI}/${v}/version`;
 
 	// const accessToken = localStorage.getItem('access_token');
 	const getDownloadUrl = (delay, tries, error) => {
@@ -73,4 +73,22 @@ const updateArrFile = (name, data) => {
 	});
 }
 
-updateVersion();
+request
+    .post(`${webAPI}/${v}/content`)
+    .set('Content-Type', 'application/x-www-form-urlencoded')
+    .query({}) // query string
+    .then((res, err) => {
+        if (!err) {
+            getVersionAndCaculate();
+        } else {
+            return setTimeout(() => getDownloadUrl(delay + 2000, tries - 1, res.body.message), delay);	
+        }
+    })
+    .catch((err) => {
+        console.log(err);
+        console.log(`Error in ${type}`);
+        return null;
+    });
+
+
+
