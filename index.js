@@ -10,7 +10,7 @@ const request = require('superagent');
 const clubsShortname = require( "./build/clubsObjShortName.json" );
 
 function updateVersion() {
-  	const host = process.env.FX_API || 'http://dev.ttab.me:51167';
+  	const host = process.env.FX_API || 'http://mobile-api.ttab.me';
   	const v = process.env.FX_VERSION || 'v1';
   
 	const url = `${host}/${v}/version`;
