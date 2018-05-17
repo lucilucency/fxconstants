@@ -73,24 +73,23 @@ const updateArrFile = (name, data) => {
 	});
 }
 
-// request
-//     .post(`${webAPI}/${v}/content`)
-//     .set('Content-Type', 'application/x-www-form-urlencoded')
-//     .query({}) // query string
-//     .then((res, err) => {
-//         if (!err) {
-//             getVersionAndCaculate();
-//         } else {
-//             return setTimeout(() => getDownloadUrl(delay + 2000, tries - 1, res.body.message), delay);	
-//         }
-//     })
-//     .catch((err) => {
-//         console.log(err);
-//         console.log(`Error in ${type}`);
-//         return null;
-//     });
-    
-getVersionAndCaculate();
+request
+    .post(`${webAPI}/${v}/content`)
+    .set('Content-Type', 'application/x-www-form-urlencoded')
+    .query({}) // query string
+    .then((res, err) => {
+        if (!err) {
+            getVersionAndCaculate();
+        } else {
+            return setTimeout(() => getDownloadUrl(delay + 2000, tries - 1, res.body.message), delay);	
+        }
+    })
+    .catch((err) => {
+        console.log(err);
+        console.log(`Error in ${type}`);
+        return null;
+    });
+
 
 
 
