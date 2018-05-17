@@ -1,6 +1,6 @@
 {
   "name": "fxconstants",
-  "version": "1.1.11",
+  "version": "1.1.12",
   "description": "Constant data for FootballX applications",
   "main": "index.js",
   "scripts": {
