@@ -11,12 +11,9 @@ const clubsShortname = require( "./build/clubsObjShortName.json" );
 const mobileAPI = process.env.FX_API || 'https://api.ttab.me';
 const webAPI = process.env.FX_WEB_API || 'https://web-api.ttab.me';
 const v = process.env.FX_VERSION || 'v1';
+const url = `${mobileAPI}/${v}/version`;
 
-function getVersionAndCaculate() {
-  	const url = `${mobileAPI}/${v}/version`;
-
-	// const accessToken = localStorage.getItem('access_token');
-	const getDownloadUrl = (delay, tries, error) => {
+const getDownloadUrl = (delay, tries, error) => {
 	  if (tries < 1) {
 	    return null;
 	  }
@@ -40,6 +37,12 @@ function getVersionAndCaculate() {
 	      	return null;
 	    });
 	};
+
+function getVersionAndCaculate() {
+  	
+
+	// const accessToken = localStorage.getItem('access_token');
+	
 
 	getDownloadUrl(1000, 3).then(nextUrl => {
 		request.get(nextUrl).buffer(true).then((res, err) => {
